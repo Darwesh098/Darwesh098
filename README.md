@@ -1,6 +1,6 @@
 - 👋 Hi, I’m khaled ali from egypt
-- 👀 I’m interested in python and data analysis
-- 🌱 I’m currently learning Dta analysis with python
+- 👀 I’m interested in python and data analysis , mql4 coding.
+- 🌱 I’m currently learning Data analysis with python
 - 📫
 - 😄 Pronouns: he
 - 
